@@ -1,0 +1,178 @@
+{
+  "Colors": {
+    "path": "../styles/colors",
+    "name": "*"
+  },
+  "useTheme": {
+    "path": "../core/theming",
+    "name": "useTheme"
+  },
+  "withTheme": {
+    "path": "../core/theming",
+    "name": "withTheme"
+  },
+  "ThemeProvider": {
+    "path": "../core/theming",
+    "name": "ThemeProvider"
+  },
+  "Provider": {
+    "path": "../core/Provider",
+    "name": "default"
+  },
+  "DefaultTheme": {
+    "path": "../styles/DefaultTheme",
+    "name": "default"
+  },
+  "DarkTheme": {
+    "path": "../styles/DarkTheme",
+    "name": "default"
+  },
+  "shadow": {
+    "path": "../styles/shadow",
+    "name": "default"
+  },
+  "Avatar": {
+    "path": "../components/Avatar/Avatar",
+    "name": "*"
+  },
+  "List": {
+    "path": "../components/List/List",
+    "name": "*"
+  },
+  "Drawer": {
+    "path": "../components/Drawer/Drawer",
+    "name": "*"
+  },
+  "Badge": {
+    "path": "../components/Badge",
+    "name": "default"
+  },
+  "ActivityIndicator": {
+    "path": "../components/ActivityIndicator",
+    "name": "default"
+  },
+  "Banner": {
+    "path": "../components/Banner",
+    "name": "default"
+  },
+  "BottomNavigation": {
+    "path": "../components/BottomNavigation",
+    "name": "default"
+  },
+  "Button": {
+    "path": "../components/Button",
+    "name": "default"
+  },
+  "Card": {
+    "path": "../components/Card/Card",
+    "name": "default"
+  },
+  "Checkbox": {
+    "path": "../components/Checkbox",
+    "name": "default"
+  },
+  "Chip": {
+    "path": "../components/Chip",
+    "name": "default"
+  },
+  "DataTable": {
+    "path": "../components/DataTable/DataTable",
+    "name": "default"
+  },
+  "Dialog": {
+    "path": "../components/Dialog/Dialog",
+    "name": "default"
+  },
+  "Divider": {
+    "path": "../components/Divider",
+    "name": "default"
+  },
+  "FAB": {
+    "path": "../components/FAB/FAB",
+    "name": "default"
+  },
+  "HelperText": {
+    "path": "../components/HelperText",
+    "name": "default"
+  },
+  "IconButton": {
+    "path": "../components/IconButton",
+    "name": "default"
+  },
+  "Menu": {
+    "path": "../components/Menu/Menu",
+    "name": "default"
+  },
+  "Modal": {
+    "path": "../components/Modal",
+    "name": "default"
+  },
+  "Portal": {
+    "path": "../components/Portal/Portal",
+    "name": "default"
+  },
+  "ProgressBar": {
+    "path": "../components/ProgressBar",
+    "name": "default"
+  },
+  "RadioButton": {
+    "path": "../components/RadioButton",
+    "name": "default"
+  },
+  "Searchbar": {
+    "path": "../components/Searchbar",
+    "name": "default"
+  },
+  "Snackbar": {
+    "path": "../components/Snackbar",
+    "name": "default"
+  },
+  "Surface": {
+    "path": "../components/Surface",
+    "name": "default"
+  },
+  "Switch": {
+    "path": "../components/Switch",
+    "name": "default"
+  },
+  "Appbar": {
+    "path": "../components/Appbar/Appbar",
+    "name": "default"
+  },
+  "TouchableRipple": {
+    "path": "../components/TouchableRipple",
+    "name": "default"
+  },
+  "TextInput": {
+    "path": "../components/TextInput/TextInput",
+    "name": "default"
+  },
+  "ToggleButton": {
+    "path": "../components/ToggleButton/ToggleButton",
+    "name": "default"
+  },
+  "Caption": {
+    "path": "../components/Typography/Caption",
+    "name": "default"
+  },
+  "Headline": {
+    "path": "../components/Typography/Headline",
+    "name": "default"
+  },
+  "Paragraph": {
+    "path": "../components/Typography/Paragraph",
+    "name": "default"
+  },
+  "Subheading": {
+    "path": "../components/Typography/Subheading",
+    "name": "default"
+  },
+  "Title": {
+    "path": "../components/Typography/Title",
+    "name": "default"
+  },
+  "Text": {
+    "path": "../components/Typography/Text",
+    "name": "default"
+  }
+}

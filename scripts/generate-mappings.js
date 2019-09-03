@@ -6,7 +6,7 @@ const types = require('babel-types');
 const parser = require('@babel/parser');
 
 const root = path.resolve(__dirname, '..');
-const output = path.join(root, 'dist/mappings.json');
+const output = path.join(root, 'src/babel/mappings.json');
 const source = fs.readFileSync(path.resolve(root, 'src', 'index.tsx'), 'utf8');
 const ast = parser.parse(source, {
   sourceType: 'module',

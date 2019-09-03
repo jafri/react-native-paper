@@ -1,4 +1,4 @@
-const mappings = require('../../dist/mappings.json');
+const mappings = require('./mappings.json');
 
 const SKIP = Symbol('SKIP');
 
